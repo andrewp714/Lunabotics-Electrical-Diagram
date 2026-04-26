@@ -1,3 +1,3 @@
 # Lunabotics-Electrical-Diagram
 
-![Lunabotics Diagram](Lunabotics Diagram.png)
+![Lunabotics Diagram](Lunabotics-Electrical-Diagram/Lunabotics Diagram.png)
